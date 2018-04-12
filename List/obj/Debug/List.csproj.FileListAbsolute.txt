@@ -1,0 +1,7 @@
+C:\git\List\List\List\bin\Debug\List.exe.config
+C:\git\List\List\bin\Debug\List.exe.config
+C:\git\List\List\bin\Debug\List.exe
+C:\git\List\List\bin\Debug\List.pdb
+C:\git\List\List\obj\Debug\List.csprojResolveAssemblyReference.cache
+C:\git\List\List\obj\Debug\List.exe
+C:\git\List\List\obj\Debug\List.pdb
